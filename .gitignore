@@ -1,0 +1,9 @@
+node_modiles
+*.key
+*.pem
+*.cert
+*.sql
+.dockerfile
+docker_compose.yml
+*yaml
+*yml

@@ -1,0 +1,23 @@
+{
+  "name": "mail_forward",
+  "version": "1.0.0",
+  "description": "Forward emails from one account to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amirsaleem-kn/mail_forward.git"
+  },
+  "keywords": [
+    "email",
+    "forward"
+  ],
+  "author": "Amir Saleem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amirsaleem-kn/mail_forward/issues"
+  },
+  "homepage": "https://github.com/amirsaleem-kn/mail_forward#readme"
+}
